@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zk>
+	<config-name>avis</config-name><!-- used to resolve dependency -->
+	<!--
+	<depends>zk</depends>
+	-->
+	
+  	<version>
+		<version-class>visa.Version</version-class>
+		<version-uid>sia</version-uid>
+	</version>
+
+	<!--
+	<listener>
+		<listener-class>visa.</listener-class>
+	</listener>
+	
+	<library-property>
+		<name></name>
+		<value>visa.</value>
+	</library-property>
+	-->
+</zk>
